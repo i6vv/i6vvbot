@@ -1,0 +1,42 @@
+{
+  "language": "ar",
+  "embedColor": 5793266,
+  "channels": {
+    "welcome": "1560333331445588088",
+    "goodbye": "1560333331445588088",
+    "logs": "1560333357194420356",
+    "ticketsCategory": "1560333326005571715",
+    "ticketPanel": "1560333350877794334",
+    "applications": "1560333353461350531",
+    "suggestions": "1560333343260676136",
+    "dhikr": "1560339111208947812"
+  },
+  "roles": {
+    "autoRole": "1560333307382861915",
+    "staff": "1560333296615952458",
+    "applicationAccepted": "1560333305629646891"
+  },
+  "automod": {
+    "enabled": true,
+    "blockInvites": true,
+    "blockLinks": false,
+    "maxMentions": 6,
+    "spamMessages": 6,
+    "spamWindowSeconds": 8,
+    "exemptRoleIds": [
+      "1560333295009665127",
+      "1560333296615952458",
+      "1560333297815527487",
+      "1560333300248219788"
+    ]
+  },
+  "tickets": {
+    "supportRoleId": "1560333300248219788",
+    "maxOpenPerUser": 1
+  },
+  "reminders": {
+    "dhikrEnabled": true,
+    "dhikrTime": "09:00",
+    "timezone": "Asia/Riyadh"
+  }
+}
